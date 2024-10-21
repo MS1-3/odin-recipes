@@ -1,0 +1,1 @@
+This is a basic HTML-only recipe website, for a project on theodinproject.com. I want this project to be a test of my current skills on HTML, to see how freely I can currently operate in this language. 
